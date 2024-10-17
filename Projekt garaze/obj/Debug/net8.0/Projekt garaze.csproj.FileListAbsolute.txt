@@ -1,0 +1,147 @@
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\appsettings.json
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Projekt garaze.staticwebassets.runtime.json
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Projekt garaze.exe
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Projekt garaze.deps.json
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Projekt garaze.runtimeconfig.json
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Projekt garaze.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Projekt garaze.pdb
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Humanizer.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\Projekt garaze.csproj.AssemblyReference.cache
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\Projekt garaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\Projekt garaze.AssemblyInfoInputs.cache
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\Projekt garaze.AssemblyInfo.cs
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\Projekt garaze.csproj.CoreCompileInputs.cache
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\Projekt garaze.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\Projekt garaze.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\Projekt garaze.RazorAssemblyInfo.cache
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\Projekt garaze.RazorAssemblyInfo.cs
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\Projekt garaze.sourcelink.json
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\staticwebassets\msbuild.Projekt garaze.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\staticwebassets\msbuild.build.Projekt garaze.props
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Projekt garaze.props
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Projekt garaze.props
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\scopedcss\bundle\Projekt garaze.styles.css
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\scopedcss\projectbundle\Projekt garaze.bundle.scp.css
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\Projekt .32D947AB.Up2Date
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\Projekt garaze.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\refint\Projekt garaze.dll
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\Projekt garaze.pdb
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\Projekt garaze.genruntimeconfig.cache
+C:\Users\jakub\OneDrive\Plocha\Visual studio\Projekt garaze\Projekt garaze\obj\Debug\net8.0\ref\Projekt garaze.dll
