@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Data\\Migrations\\20241020140051_OwnerGarageCarMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt garaze\\Data\\Migrations\\20241020140051_OwnerGarageCarMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|c:\\users\\jakub\\onedrive\\plocha\\visual studio\\projekt garaze\\projekt garaze\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|solutionrelative:projekt garaze\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|c:\\users\\jakub\\onedrive\\plocha\\visual studio\\projekt garaze\\projekt garaze\\controllers\\garagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|solutionrelative:projekt garaze\\controllers\\garagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|c:\\users\\jakub\\onedrive\\plocha\\visual studio\\projekt garaze\\projekt garaze\\models\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|solutionrelative:projekt garaze\\models\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|c:\\users\\jakub\\onedrive\\plocha\\visual studio\\projekt garaze\\projekt garaze\\controllers\\ownerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|solutionrelative:projekt garaze\\controllers\\ownerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|c:\\users\\jakub\\onedrive\\plocha\\visual studio\\projekt garaze\\projekt garaze\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|solutionrelative:projekt garaze\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Data\\Migrations\\20241020135644_OwnerMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt garaze\\Data\\Migrations\\20241020135644_OwnerMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Data\\Migrations\\20241020134315_OwnerMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt garaze\\Data\\Migrations\\20241020134315_OwnerMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +47,95 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20241020140051_OwnerGarageCarMigration.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Data\\Migrations\\20241020140051_OwnerGarageCarMigration.cs",
+              "RelativeDocumentMoniker": "Projekt garaze\\Data\\Migrations\\20241020140051_OwnerGarageCarMigration.cs",
+              "ToolTip": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Data\\Migrations\\20241020140051_OwnerGarageCarMigration.cs",
+              "RelativeToolTip": "Projekt garaze\\Data\\Migrations\\20241020140051_OwnerGarageCarMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:00:51.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "Projekt garaze\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "Projekt garaze\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:00:20.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GaragesController.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Controllers\\GaragesController.cs",
+              "RelativeDocumentMoniker": "Projekt garaze\\Controllers\\GaragesController.cs",
+              "ToolTip": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Controllers\\GaragesController.cs",
+              "RelativeToolTip": "Projekt garaze\\Controllers\\GaragesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:59:55.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OwnersController.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Controllers\\OwnersController.cs",
+              "RelativeDocumentMoniker": "Projekt garaze\\Controllers\\OwnersController.cs",
+              "ToolTip": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Controllers\\OwnersController.cs",
+              "RelativeToolTip": "Projekt garaze\\Controllers\\OwnersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:58:14.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241020135644_OwnerMigration.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Data\\Migrations\\20241020135644_OwnerMigration.cs",
+              "RelativeDocumentMoniker": "Projekt garaze\\Data\\Migrations\\20241020135644_OwnerMigration.cs",
+              "ToolTip": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Data\\Migrations\\20241020135644_OwnerMigration.cs",
+              "RelativeToolTip": "Projekt garaze\\Data\\Migrations\\20241020135644_OwnerMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:56:44.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241020134315_OwnerMigration.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Data\\Migrations\\20241020134315_OwnerMigration.cs",
+              "RelativeDocumentMoniker": "Projekt garaze\\Data\\Migrations\\20241020134315_OwnerMigration.cs",
+              "ToolTip": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Data\\Migrations\\20241020134315_OwnerMigration.cs",
+              "RelativeToolTip": "Projekt garaze\\Data\\Migrations\\20241020134315_OwnerMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:43:15.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Models\\Owner.cs",
+              "RelativeDocumentMoniker": "Projekt garaze\\Models\\Owner.cs",
+              "ToolTip": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Models\\Owner.cs",
+              "RelativeToolTip": "Projekt garaze\\Models\\Owner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:42:51.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Garage.cs",
               "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Models\\Garage.cs",
               "RelativeDocumentMoniker": "Projekt garaze\\Models\\Garage.cs",
