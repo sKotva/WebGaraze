@@ -6,5 +6,6 @@
         public string Name { get; set; }
         public int FreeSpace { get; set; }
         public int OccupiedSpace { get; set; }
+        public List<Car> Cars { get; set; }
     }
 }

@@ -19,6 +19,11 @@ namespace Projekt_garaze.Controllers
             _context = context;
         }
 
+        public IActionResult Car()
+        {
+            return View();
+        }
+
         // GET: Cars
         public async Task<IActionResult> Index()
         {

@@ -12,7 +12,7 @@ namespace Projekt_garaze.Controllers
         {
             _logger = logger;
         }
-
+                
         public IActionResult Index()
         {
             return View();

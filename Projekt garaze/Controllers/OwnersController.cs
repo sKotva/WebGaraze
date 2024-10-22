@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
 using Microsoft.EntityFrameworkCore;
 using Projekt_garaze.Data;
 using Projekt_garaze.Models;
@@ -147,6 +148,54 @@ namespace Projekt_garaze.Controllers
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
+        }
+
+        //Buys Garage for owner
+        public async Task<IActionResult> BuyGarage(int ownerId,int carId, int garageId)
+        {
+            var owner = await _context.Owner.FindAsync(ownerId);
+            var garage = await _context.Garage.FindAsync(garageId);
+            if (ownerId !=null && carId != null && garageId != null)
+            {
+                owner.Garages.Add(garage);
+            }
+
+            return View();
+        }
+
+        // Buys car for owner
+        public async Task<IActionResult> BuyCar(int id, Car car)
+        {
+            var owner = await _context.Owner.FindAsync(id);
+
+            if(id != null && car != null)
+            {
+                owner.Cars.Add(car);
+            }
+            return View();
+        }
+
+        //Parks car into a garage
+        public async Task<IActionResult> ParkCar(int ownerId,int CarId,int GarageId)
+        {
+            var owner = await _context.Owner.FindAsync(ownerId);
+            var car = await _context.Car.FindAsync(CarId);
+            var garage = await _context.Garage.FindAsync(GarageId);
+           
+            foreach(Car c in owner.Cars)
+            {
+                if (c.Id != CarId)
+                    continue;
+                else if (c.Id == CarId)
+                {
+                    garage.Cars.Add(c);
+                    return View(owner);
+                }
+                else
+                    return View(owner);
+                
+            }
+            return View(Index());
         }
 
         private bool OwnerExists(int id)
