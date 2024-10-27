@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|c:\\users\\jakub\\onedrive\\plocha\\visual studio\\projekt garaze\\projekt garaze\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|solutionrelative:projekt garaze\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|c:\\users\\jakub\\onedrive\\plocha\\visual studio\\projekt garaze\\projekt garaze\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|solutionrelative:projekt garaze\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|c:\\users\\jakub\\onedrive\\plocha\\visual studio\\projekt garaze\\projekt garaze\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|solutionrelative:projekt garaze\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|c:\\users\\jakub\\onedrive\\plocha\\visual studio\\projekt garaze\\projekt garaze\\controllers\\ownerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1C1F5CB-B6C5-408F-8F33-66D63D3C1FC0}|Projekt garaze\\Projekt garaze.csproj|solutionrelative:projekt garaze\\controllers\\ownerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Projekt garaze\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Projekt garaze\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:04:56.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Projekt garaze\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Projekt garaze\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvy8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:32:50.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Projekt garaze\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Projekt garaze\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:25:23.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "OwnersController.cs",
               "DocumentMoniker": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Controllers\\OwnersController.cs",
               "RelativeDocumentMoniker": "Projekt garaze\\Controllers\\OwnersController.cs",
               "ToolTip": "C:\\Users\\jakub\\OneDrive\\Plocha\\Visual studio\\Projekt garaze\\Projekt garaze\\Controllers\\OwnersController.cs",
               "RelativeToolTip": "Projekt garaze\\Controllers\\OwnersController.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAzwLwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAuwLwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T13:58:14.645Z",
               "EditorCaption": ""
