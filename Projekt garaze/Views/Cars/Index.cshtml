@@ -1,14 +1,16 @@
 ﻿@model IEnumerable<Projekt_garaze.Models.Car>
+@using Microsoft.AspNetCore.Identity;
 
 @{
     ViewData["Title"] = "Index";
 }
 
 <h1>Index</h1>
-
+@if(User.IsInRole("Admin")){
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+}
 <table class="table">
     <thead>
         <tr>

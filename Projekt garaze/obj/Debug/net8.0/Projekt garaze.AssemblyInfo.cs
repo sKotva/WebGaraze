@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projekt garaze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+276fba44451d8fa08826f3b80e86b3fbea139c2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e133135cd487f8e4b97907a6df329e685ab77c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projekt garaze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projekt garaze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

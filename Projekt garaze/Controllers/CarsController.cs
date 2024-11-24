@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -48,6 +49,7 @@ namespace Projekt_garaze.Controllers
             return View(car);
         }
 
+        [Authorize(Roles ="Admin")]
         // GET: Cars/Create
         public IActionResult Create()
         {
@@ -59,6 +61,7 @@ namespace Projekt_garaze.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles ="Admin")]
         public async Task<IActionResult> Create([Bind("Id,Brand,PlateNumber")] Car car)
         {
             if (ModelState.IsValid)
@@ -70,6 +73,7 @@ namespace Projekt_garaze.Controllers
             return View(car);
         }
 
+        [Authorize(Roles ="Admin")]
         // GET: Cars/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -91,6 +95,7 @@ namespace Projekt_garaze.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Brand,PlateNumber")] Car car)
         {
             if (id != car.Id)
@@ -121,6 +126,7 @@ namespace Projekt_garaze.Controllers
             return View(car);
         }
 
+        [Authorize(Roles = "Admin")]
         // GET: Cars/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
@@ -139,6 +145,7 @@ namespace Projekt_garaze.Controllers
             return View(car);
         }
 
+        [Authorize(Roles = "Admin")]
         // POST: Cars/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]

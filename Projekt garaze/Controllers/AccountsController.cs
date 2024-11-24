@@ -43,7 +43,7 @@ namespace Projekt_garaze.Controllers
 
                 ModelState.AddModelError("Login Error", "Neplatné přihlašovací udaje.");
                 return View(model);
-                return View(model);
+                
             }
 
             return View(model);
